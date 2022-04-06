@@ -9,7 +9,7 @@ Everytime you make any changes to the code, run the commands:
  
 Then you can quickly test your changes by running:
 
-    ./main test hw1
+    ./main test hw0
 
 If you run the above code without making any changes to the original repo, you will get the following result:
     
